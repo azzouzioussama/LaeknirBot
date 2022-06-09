@@ -16,3 +16,8 @@ And Supervised By:
 This application was made for there master degrees currently studying in the university of Mustapha Ben Boulaid Batna.
 They"'"re from a country called Algeria.
 **NOTE**: We Hope you liked the App and please use it for good purposes only
+
+SCREENSHOTS From the APP:
+
+![image](https://user-images.githubusercontent.com/78319392/172943321-c0c38162-f778-4657-968e-85c8a243c87f.png)
+
