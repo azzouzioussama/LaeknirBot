@@ -3,9 +3,11 @@ this is our first release of this app  it is intended for the ML project for my 
 
 Two algerians students: 
   -Azzouzi Oussama Abderraouf
-  -Bahloul Abderrahmane\n
+  -Bahloul Abderrahmane
+  
 And Supervised By:
   -MR.Kadri Ouahab
+  
 This application was made for there master degrees currently studying in the university of Mustapha Ben Boulaid Batna.
 They"'"re from a country called Algeria.
 **NOTE**: We Hope you liked the App and please use it for good purposes only
