@@ -29,4 +29,14 @@ SCREENSHOTS From the APP:
 
 ![image](https://user-images.githubusercontent.com/78319392/172943612-19951d48-78d5-4895-b47e-174af4ef7923.png)
 
+![image](https://user-images.githubusercontent.com/78319392/172943783-f5d69fdb-7e2c-4170-bdce-9d56be90692f.png)
+
+![image](https://user-images.githubusercontent.com/78319392/172943813-9a585e16-ac56-4397-97c5-422708a55e04.png)
+
+![image](https://user-images.githubusercontent.com/78319392/172943847-ae13131c-ca97-4de3-9f24-092e9b270c24.png)
+
+![image](https://user-images.githubusercontent.com/78319392/172943881-78442f3b-2c42-4736-b8d2-e04415f45c9e.png)
+
+
+
 
